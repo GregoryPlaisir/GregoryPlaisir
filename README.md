@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="qa-banner.png" alt="Gregory Plaisir QA Banner" />
+</p>
 # Hi, I'm Gregory Plaisir 👋🏿
 
 ### Quality Assurance Engineer | UAT | API Testing | SQL | Python | Playwright
