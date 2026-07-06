@@ -1,144 +1,93 @@
 # Hi, I'm Gregory Plaisir 👋🏿
 
-Quality Assurance Engineer with 8+ years of experience delivering quality software across financial services, mortgage technology, defense, telecommunications, SaaS, and customer-facing digital platforms.
-
-I specialize in User Acceptance Testing (UAT), Functional Testing, Regression Testing, API Testing, SQL Validation, Defect Management, Requirements Analysis, and Agile Software Delivery.
-
-Throughout my career, I have partnered with Product Owners, Business Analysts, Developers, Scrum Masters, Project Managers, SMEs, and business stakeholders to help deliver reliable, high-quality software solutions.
+### Quality Assurance Engineer | UAT | API Testing | SQL | Python | Playwright
 
 ---
 
-## Industry Experience
+## 🚀 About Me
 
-* Financial Services
-* Mortgage Technology
-* Government & Defense
-* Telecommunications
-* SaaS Platforms
-* Mobile Applications
+🔹 8+ Years of Quality Assurance Experience
 
----
+🔹 Financial Services | Mortgage Technology | Government & Defense | SaaS
 
-## Professional Focus
+🔹 Specialized in UAT, Functional Testing, Regression Testing, API Testing, and SQL Validation
 
-My goal is to combine my background in UAT, requirements validation, defect management, and stakeholder collaboration with modern testing practices including SQL data validation, API testing, automation, and quality engineering.
-
-I am actively building a portfolio that demonstrates both real-world QA expertise and modern Quality Engineering skills while expanding my capabilities in Python, Playwright, and software test automation.
+🔹 Currently growing into Quality Engineering through Python, Playwright, API Testing, and SQL Data Validation
 
 ---
 
-## Current Learning Journey
+## 🎯 Current Focus
 
-I am currently strengthening my technical skillset through:
-
-* SQL Data Validation
-* API Testing with Postman
-* Python
-* Playwright Automation Testing
-* GitHub Portfolio Development
-* Quality Engineering Best Practices
+* 📚 SQL Data Validation
+* 📚 API Testing with Postman
+* 📚 Python
+* 📚 Playwright Automation
+* 📚 Quality Engineering Best Practices
+* 📚 GitHub Portfolio Development
 
 ---
 
-## Core QA Skills
+## 🛠️ QA & Testing
 
-### Testing & Quality Assurance
-
-* User Acceptance Testing (UAT)
-* Functional Testing
-* Regression Testing
-* Smoke Testing
-* End-to-End Testing
-* Exploratory Testing
-* Positive & Negative Testing
-* Requirements Validation
-* Release Readiness Testing
-
-### Quality Engineering
-
-* Test Planning
-* Test Case Design
-* Defect Management
-* Root Cause Analysis
-* Requirements Traceability
-* Risk-Based Testing
-
-### API & Data Validation
-
-* API Testing
-* REST APIs
-* Postman
-* JSON Validation
-* SQL Validation
-* Backend Data Verification
+![UAT](https://img.shields.io/badge/UAT-0052CC?style=for-the-badge)
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-36B37E?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-6554C0?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API_Testing-FF6B00?style=for-the-badge)
+![SQL Validation](https://img.shields.io/badge/SQL_Validation-4479A1?style=for-the-badge)
+![Defect Management](https://img.shields.io/badge/Defect_Management-D73A49?style=for-the-badge)
 
 ---
 
-## Tools & Technologies
+## 💻 Technical Skills
 
-### Test Management & Collaboration
-
-* Jira
-* Azure DevOps
-* HP ALM / Quality Center
-* TestRail
-* BrowserStack
-* ServiceNow
-
-### Technical Skills
-
-* SQL
-* Postman
-* Git
-* GitHub
-* Docker
-* Linux
-* Python (Learning)
-* Playwright (Learning)
-
-### Methodologies
-
-* Agile Scrum
-* Waterfall
-* SDLC
-* STLC
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 ---
 
-## Featured Projects
+## 🌱 Currently Learning
 
-🚧 Currently Building
-
-* SQL QA Data Validation Project
-* Postman API Testing Project
-* QA Test Planning & UAT Portfolio
-* Playwright Python Automation Project
-* Business Analysis & Requirements Validation Portfolio
-* QA Data Analytics Project
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-Learning-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
 
 ---
 
-## Career Interests
+## 📂 Featured Projects
 
-I am interested in opportunities related to:
+🚧 SQL QA Data Validation Project
+
+🚧 Postman API Testing Project
+
+🚧 QA Test Planning & UAT Portfolio
+
+🚧 Playwright Python Automation Project
+
+🚧 Business Analysis & Requirements Validation Portfolio
+
+🚧 QA Data Analytics Project
+
+---
+
+## 🎯 Career Interests
 
 * Quality Assurance Engineer
 * Senior QA Analyst
 * UAT Analyst
-* Software Test Engineer
+* Quality Engineer
 * Application Support Analyst
 * Technical Support Engineer
-* Business Systems Analyst
-* Quality Engineer
 * Future SDET Opportunities
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
-LinkedIn: linkedin.com/in/gregoryplaisir
+💼 LinkedIn: linkedin.com/in/gregoryplaisir
 
 ---
 
-*"Quality is never an accident; it is always the result of intelligent effort."*
-
+> *"Quality is never an accident; it is always the result of intelligent effort."*
