@@ -1,4 +1,4 @@
-# Hi, I'm Gregory Plaisir 👋
+# Hi, I'm Gregory Plaisir 👋🏿
 
 Quality Assurance Engineer with 8+ years of experience delivering quality software across financial services, mortgage technology, defense, telecommunications, SaaS, and customer-facing digital platforms.
 
