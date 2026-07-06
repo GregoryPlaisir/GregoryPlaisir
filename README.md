@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="qa-banner.png" alt="Gregory Plaisir QA Banner" />
+  <img src="qa-banner2.png" alt="Gregory Plaisir QA Banner" />
 </p>
 Hi, I'm Gregory Plaisir 👋🏿
 
