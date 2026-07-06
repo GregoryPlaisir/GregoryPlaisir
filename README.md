@@ -83,7 +83,11 @@
 * Future SDET Opportunities
 
 ---
+## 👀 Profile Views
 
+![](https://komarev.com/ghpvc/?username=gregoryplaisir&color=blueviolet)
+
+---
 ## 🤝 Connect With Me
 
 💼 LinkedIn: linkedin.com/in/gregoryplaisir
