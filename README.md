@@ -25,6 +25,10 @@
 * 📚 Quality Engineering Best Practices
 * 📚 GitHub Portfolio Development
 
+## 📊 GitHub Stats
+
+![Gregory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gregoryplaisir&show_icons=true&theme=tokyonight)
+
 ---
 
 ## 🛠️ QA & Testing
