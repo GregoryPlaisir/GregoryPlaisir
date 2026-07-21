@@ -67,6 +67,16 @@
 
 ---
 
+### Featured Projects
+
+- Customer Order Management System QA Portfolio
+  - GitHub Repository
+  - Jira Project Board
+  - Confluence Documentation
+**Jira Project:** [View Project Board](https://gregoryplaisir.atlassian.net/jira/software/projects/SCRUM/summary)
+
+  ---
+
 ## ⭐ Flagship Project
 
 ### Customer Order Management System – QA Portfolio
